@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 Atualmente estudando Banco de Dados
-- 💬 Aprimorando conhecimentos de programação
-- 📫 Email para contato: lorenzodalvi2410@gmail.com
+- 🔭 Web developer in progress
+- 💬 I love to solve problems and make my own little projects
+- 📫 Contact: lorenzodalvi2410@gmail.com
 <div align="center">
   <a href="https://github.com/lorenzodalvi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lorenzodalvi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
