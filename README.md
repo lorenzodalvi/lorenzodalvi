@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Web developer in progress, current learning Bootstrap 5
+- 🔭 Web developer in progress, current learning React.JS
 - 💬 I love to solve problems and make my own little projects
 - 📫 Contact: lorenzodalvi2410@gmail.com
 <div align="center">
